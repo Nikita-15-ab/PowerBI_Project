@@ -25,6 +25,11 @@ The objective of the report is to analyze and present comprehensive insights int
 5) Develop Reports in Power BI Desktop
 6) Implementing DAX Calculations
 
+## Download PBIX File & Excel Dataset
+[Resources](https://drive.google.com/drive/folders/1uIvu9IV42xtffHigw6NLuV11PfsMvCem)
+
+## 
+
 ## Conclusion 
 Conclusion for the year 2019:
 
@@ -35,5 +40,6 @@ Conclusion for the year 2019:
 
 Similarly, we can derive other insights from the Report
 
-## Download PBIX File & Excel Dataset
-[Resources](https://drive.google.com/drive/folders/1uIvu9IV42xtffHigw6NLuV11PfsMvCem)
+
+
+
