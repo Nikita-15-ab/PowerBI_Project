@@ -18,3 +18,9 @@ The objective of the report is to analyze and present comprehensive insights int
 10) **Create Slicers for Date, City, Product, and Channel:** Enable users to interact with the data by providing slicers for selecting specific dates, cities, products, and channels, allowing for dynamic filtering and personalized analysis.
 
 ## Steps to follow for an end-to-end Power BI Project
+1) Gather Data
+2) Power Querry – Data Extract, Transform & Load
+3) Create a Date Table
+4) Create Data Model in Power BI Desktop
+5) Develop Reports in Power BI Desktop
+6) Implementing DAX Calculations
