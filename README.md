@@ -6,7 +6,7 @@ Welcome to the Sales Dashboard Power BI project! This project provides a dynamic
 ## Objective
 The objective of the report is to analyze and present comprehensive insights into sales, profit, orders, profit margin, and various comparisons. It aims to provide a clear understanding of key performance indicators and trends using Power BI. The report objectives can be summarized as follows:
 
-1) Calculate Total Sales: Calculate and display the total sales value for the selected period, allowing users to understand the overall revenue generated.
+1) **Calculate Total Sales**: Calculate and display the total sales value for the selected period, allowing users to understand the overall revenue generated.
 2) Calculate Profit: Calculate and visualize the total profit achieved based on the sales data, providing insights into the financial performance.
 3) Analyze Orders: Analyze the number of orders placed during the selected period, helping to identify sales patterns and order trends.
 4) Calculate Profit Margin: Calculate and visualize the profit margin percentage, enabling users to assess the profitability of products or services.
