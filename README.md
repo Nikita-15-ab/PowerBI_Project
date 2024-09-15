@@ -24,3 +24,5 @@ The objective of the report is to analyze and present comprehensive insights int
 4) Create Data Model in Power BI Desktop
 5) Develop Reports in Power BI Desktop
 6) Implementing DAX Calculations
+
+## Conclusion 
