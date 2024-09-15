@@ -26,3 +26,11 @@ The objective of the report is to analyze and present comprehensive insights int
 6) Implementing DAX Calculations
 
 ## Conclusion 
+Conclusion for the year 2019:
+
+1) Sales decreased by more than 10%
+2) There is a drop in sales of all the top 7 Products
+3) 4 Customers are leading to a drop in sales
+4) The profit margin in the Export channel is higher
+
+Similarly, we can derive other insights from the Report
